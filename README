@@ -1,3 +1,7 @@
+**EDITS**
+-04/04/2022 - attempt to port the entire package to Brian2
+
+
 This code reproduces some results from the paper:
 
 Memory replay in balanced recurrent networks.
